@@ -6,8 +6,7 @@
 - I mainly code Discord bots using [Discord.js](https://discord.js.org/#/) & [Node.js](https://nodejs.org/en/)
 - He/Him
 
-<details>
-<summary>
+
 
 ### Contact Me
 Discord: [Tallic#0001](https://discord.com/users/817123942774210611)
