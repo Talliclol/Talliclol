@@ -3,8 +3,11 @@
 ### About Me
 - I enjoy playing video games & coding.
 - Some of my favorite games include: **Minecraft, Roblox, Fornite, and Forza Horizon 4**
-- I mainly code Discord bots using [Discord.js](https://discord.js.org/#/) & [Node.js](https://nodejs.org/en/)
+- I mainly code Discord bots using [Discord.js](https://discord.js.org/#/) & [Node.js](https://nodejs.org/en/).
+- I enjoy playing sports such as Basketball.
 - He/Him
+
+I don't use GitHub too much, and mainly use to edit friend's repos. Most of my work is closed source and not uploaded to Github. But yeah, idrk what else to put here so thanks for reading this and bye.
 
 
 
