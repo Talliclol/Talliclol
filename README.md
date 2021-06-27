@@ -1,4 +1,4 @@
-<h1 align="center">👋Hello there, I'm Tallic.</h1>
+<h1 align="center">👋 Hello there, I'm Tallic.</h1>
 
 ### About Me
 - I enjoy playing video games & coding.
